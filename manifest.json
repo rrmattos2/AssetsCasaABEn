@@ -1,5 +1,9 @@
 {
   "packs": [
-    { "name": "Audios_Trilha2.zip", "url": "https://drive.google.com/uc?export=download&id=1yHUXCsbshs-FO-1Fs-Z8tEim_WLDDZT-", "version": "1.0" }
+    { "name": "Audios_Trilha2.zip", "url": "https://github.com/rrmattos2/AssetsCasaABEn/releases/download/Releases/Audios_Trilha2.zip", "version": "1.0" },
+    { "name": "Videos_Trilha2.zip", "url": "https://github.com/rrmattos2/AssetsCasaABEn/releases/download/Releases/Videos_Trilha2.zip", "version": "1.0" },
+    { "name": "Videos_Presidentas.zip", "url": "https://github.com/rrmattos2/AssetsCasaABEn/releases/download/Releases/Videos_Presidentas.zip", "version": "1.0" },
+    { "name": "Imagens_Trilha2.zip", "url": "https://github.com/rrmattos2/AssetsCasaABEn/releases/download/Releases/Imagens_Trilha2.zip", "version": "1.0" },
+    { "name": "Imagens_ABEn.zip", "url": "https://github.com/rrmattos2/AssetsCasaABEn/releases/download/Releases/Imagens_ABEn.zip", "version": "1.0" }
   ]
 }
