@@ -20,6 +20,7 @@
     { "name": "Videos_Trilha2_Recorte3.zip", "url": "https://github.com/rrmattos2/AssetsCasaABEn/releases/download/Releases/Videos_Trilha2_Recorte3.zip", "version": "1.0" },
     { "name": "Videos_Trilha2_Recorte4_part1.zip", "url": "https://github.com/rrmattos2/AssetsCasaABEn/releases/download/Releases/Videos_Trilha2_Recorte4_part1.zip", "version": "1.0" },
     { "name": "Videos_Trilha2_Recorte4_part2.zip", "url": "https://github.com/rrmattos2/AssetsCasaABEn/releases/download/Releases/Videos_Trilha2_Recorte4_part2.zip", "version": "1.0" },
+    { "name": "Imagens.zip", "url": "https://github.com/rrmattos2/AssetsCasaABEn/releases/download/Releases/Imagens.zip", "version": "1.0" },
     { "name": "Imagens_aben.zip", "url": "https://github.com/rrmattos2/AssetsCasaABEn/releases/download/Releases/Imagens_aben.zip", "version": "1.0" },
     { "name": "Imagens_aben_Emblema.zip", "url": "https://github.com/rrmattos2/AssetsCasaABEn/releases/download/Releases/Imagens_aben_Emblema.zip", "version": "1.0" },
     { "name": "Imagens_Estados.zip", "url": "https://github.com/rrmattos2/AssetsCasaABEn/releases/download/Releases/Imagens_Estados.zip", "version": "1.0" },
@@ -58,6 +59,7 @@
     { "name": "Imagens_trilha_presidentas.zip", "url": "https://github.com/rrmattos2/AssetsCasaABEn/releases/download/Releases/Imagens_trilha_presidentas.zip", "version": "1.0" }
   ]
 }
+
 
 
 
